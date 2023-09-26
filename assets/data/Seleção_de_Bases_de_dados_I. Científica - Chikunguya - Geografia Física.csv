@@ -1,0 +1,37 @@
+,,,,,,,,,,,
+,,,Geografia Física,,,,,,,,
+,,Aspectos,Hidrografia,Clima,Vegetação,,,,,,
+,,Motivação,"Ambientes
+úmidos tendem a favorecer a
+proliferação do vetor. ","Climas úmidos
+favorecem a umidade local,
+bem como o acúmulo de água
+devido ao seu alto índice de
+pluviosidade.","A influência da
+vegetação sobre o clima
+acontece de diferentes formas,
+influenciando tanto no albedo
+quanto na umidade e nas
+variações de temperatura.",,,,,,
+,,,,,,,Hidrografia,,,,
+,,,,,,,Atributos,Base de dados,Descrição da base,Cobertura da Base (mun/est),Link
+,,,,,,,"Qual proximidade das fontes
+de água?",,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,Qual a extensão dessa fonte?,,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,Quantas fontes de águas abertas existem nessa região?,,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,,,,,
+,,,,,,,Clima,,,,
+,,,,,,,Atributos,Base de dados,Descrição da base,Cobertura da Base (mun/est),Link
+,,,,,,,"Informe o tipo de clima da
+região.",,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,"Informe o índice de
+pluviosidade anual da região.",,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,Vegetação,,,,
+,,,,,,,Atributos,Base de dados,Descrição da base,Cobertura da Base (mun/est),Link
+,,,,,,,"Informe o tipo de vegetação da
+região.",,,,https://idesisema.meioambiente.mg.gov.br/webgis
+,,,,,,,"Informe a extensão de
+cobertura da vegetação na
+região.",,,,https://idesisema.meioambiente.mg.gov.br/webgis
